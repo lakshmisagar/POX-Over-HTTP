@@ -1,6 +1,4 @@
-														ASU ID : 1211009498 / lkusnoor
-														NAME : LAKSHMISAGAR KUSNOOR
-														SOFTWARE DESIGN ASSIGNMENT 1 : POX over HTTP 
+POX over HTTP 
 
 
 Follow the below instructions to install the project in NETBEANS IDE :
